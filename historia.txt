@@ -2,4 +2,7 @@ Esta es la historis de Gustavo Fernandez
 
 Gustavo Fernandez tiene 34 años y nacio en Argentina
 
+Ahora estoy haciendo cambios desde una maquina virtual con otro usuario de
+en la clase de git y github de platzi, justamente en la case sobre FORK
+
 Mañana nos enfocaremos en su vida laboral
